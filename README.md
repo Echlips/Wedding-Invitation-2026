@@ -1096,13 +1096,13 @@ footer p {
 
         <p>
             <strong>Venue:</strong>
-            Example Banquet Hall, Abuja
+            Olaiya street, sawmill Ilorin, Kwara State 
         </p>
 
     </div>
 
     <a
-        href="https://www.google.com/maps/search/?api=1&query=Banquet+Hall+Abuja"
+        href="https://maps.app.goo.gl/UYoaEdBAcsaC67EA7"
         target="_blank"
         rel="noopener noreferrer">
 
@@ -1138,13 +1138,13 @@ footer p {
 
         <p>
             <strong>Venue:</strong>
-            Example Banquet Hall, Abuja
+            Ile saura Agbaji, Ilorin, Kwara State.
         </p>
 
     </div>
 
     <a
-        href="https://www.google.com/maps/search/?api=1&query=Banquet+Hall+Abuja"
+        href="https://maps.app.goo.gl/aE7gednJv4J1DJ93A"
         target="_blank"
         rel="noopener noreferrer">
 
@@ -1187,7 +1187,7 @@ footer p {
     </div>
 
     <a
-        href="https://maps.app.goo.gl/ZnLFBMVvUuTeWgfh8?g_st=ac"
+        href="https://maps.app.goo.gl/aE7gednJv4J1DJ93A"
         target="_blank"
         rel="noopener noreferrer">
 
