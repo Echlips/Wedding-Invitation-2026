@@ -6,7 +6,7 @@
     <meta name="description" content="Join us to celebrate a beautiful Islamic wedding filled with love, faith, and blessings.">
   
 <title>Islamic Wedding Invitation</title>
-
+<style>
 /* =========================================
    LUXURY ISLAMIC WEDDING INVITATION
    Colour palette: Green, Wine, Gold, Ivory
@@ -987,6 +987,7 @@ footer p {
     }
 
 }
+</style>
 </head>
 <body>
 <!-- NAVIGATION BAR -->
